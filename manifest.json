@@ -24,6 +24,7 @@
           "companionlink.js",
           "prescription.js",
           "update.js",
+          "atcd.js",
           "aati.js",
           "metrics.js"]
     }
